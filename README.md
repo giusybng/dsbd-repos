@@ -1,4 +1,4 @@
-# dsbd-repos
+# Logging System
 
 To test the application open project8 as it is the maven project that contains the Spring Boot loggingsystem application and other useful folders
 
